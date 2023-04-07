@@ -11,14 +11,13 @@ public static void main(String[] args) {
        int quantidade = input.nextInt();
         double valor;
     
-    if(codigo==cachorroquente){
-     valor = 4.00;
-      }else if (codigo==xsalada){ valor = 4.50;
-       }else if(codigo==XBacon){ valor = 5.00;    
-        }else if (codigo==torradaSimples){ valor = 2.00;
-         }else{valor = 1.50;}
-          double total = valor*quantidade;
-           System.out.printf("Total: R$ %.2f\n",total);
+         if(codigo==cachorroquente){valor = 4.00;
+          }else if (codigo==xsalada){ valor = 4.50;
+           }else if(codigo==XBacon){ valor = 5.00;    
+            }else if (codigo==torradaSimples){ valor = 2.00;
+             }else{valor = 1.50;}
+              double total = valor*quantidade;
+               System.out.printf("Total: R$ %.2f\n",total);
 
  }
     
