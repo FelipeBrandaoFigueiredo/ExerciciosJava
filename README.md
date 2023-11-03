@@ -1,2 +1,2 @@
-# ExerciciosJava
-Aqui são exercícios que estou fazendo para aprender e desenvolver meus conhecimentos com Java.
+# Exercicios com Java
+Aqui são exercícios que estive fazendo para aprender e desenvolver meus conhecimentos em Java, sua sintaxe e seus conceitos! 
